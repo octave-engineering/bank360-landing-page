@@ -1,5 +1,6 @@
 {
-  "name": "cashflow-landing",
+  "name": "bank360-landing",
+  "homepage": "http://bank360.ng",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

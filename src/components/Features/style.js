@@ -21,10 +21,10 @@ const Wrapper = styled.section`
     }
 
     /* @media screen and (min-width: 1024px) {
-      margin: 32px 0;
+      margin: 72px 0;
     }
     @media screen and (min-width: 1200px) {
-      margin: 32px 0;
+      margin: 96px 0;
     } */
   }
 `;

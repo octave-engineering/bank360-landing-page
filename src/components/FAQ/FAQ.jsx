@@ -97,7 +97,7 @@ const FAQ = () => {
         <div className="avatar-grp">
           <img src={avatarGroup} alt="Avatar group" />
           <h4>Still have questions?</h4>
-          <a href="mailto:mail@cashflow.com">
+          <a href="mailto:mail@bank360.ng">
             Contact us
             <span>
               <ArrowGo />
